@@ -1,1 +1,1 @@
-# supercontracts-demo
+# SuperContracts demo — updated by guarded flow
