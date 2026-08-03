@@ -1,1 +1,1 @@
-# supercontracts-demo
+# SuperContracts demo — updated on feature/demo-video
